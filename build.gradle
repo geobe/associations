@@ -31,7 +31,7 @@ plugins {
 
 apply plugin: 'groovy'
 group = 'de.geobe.util'
-version = '1.0.0-SNAPSHOT'
+version = '1.0.0'
 
 sourceCompatibility = 1.8
 
